@@ -1,0 +1,75 @@
+a{
+    text-decoration: none;
+    color: #333;
+}
+body{
+    margin: 30px;
+    padding: 0;
+    font: 14px Helvetica Neue, Helvetica, PingFang SC, Tahoma, Arial, sans-serif;
+}
+.layui-elem-field{
+    border-color: #E6E6E6 ;
+    padding: 0;
+}
+.layui-field-title{
+    margin: 10px 0 20px;
+    border-width: 1px 0 0;
+}
+.layui-form-item{
+    margin-bottom: 15px;
+    clear: both;
+}
+div{
+    margin: 0;
+    padding: 0;
+}
+.layui-form-item:after{
+    contain: '\20';
+    clear: both;
+    display: block;
+    height: 0;
+}
+.layui-form-label{
+    float: left;
+    display: block;
+    padding: 9px 15px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: right;
+    position: relative;
+}
+.layui-input-block{
+    margin-left: 110px;
+    min-height: 36px;
+    position: relative;
+}
+.layui-btn{
+    line-height: 38px;
+    padding: 0 18px;
+    background-color: tan;
+    color: #fff;
+    border: none;
+}
+element.style{
+    margin-top: 20px;
+}
+.layui-input{
+    height: 38px;
+    line-height: 1.3;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #E6E6E6;
+    border-radius: 2px;
+    background-color: #fff;
+    box-sizing: border-box;
+}
+input{
+    margin: 0;
+    padding: 0;
+    font-size: inherit;
+    outline: 0;
+}
+.layui-input-inline{
+    display: inline-block;
+    vertical-align: middle;
+}

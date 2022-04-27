@@ -1,0 +1,31 @@
+div{
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    font-width: 400;
+}
+a{
+    text-decoration: none;
+}
+.layui-btn{
+    display: inline-block;
+    line-height: 10px;
+    padding: 0 14px;
+
+}
+.layui-btn-radius{
+    border-radius: 100px;
+}
+.layui-btn-primary{
+    color: #555;
+}
+.body2{
+    margin-top: 290px;
+    margin-left: 900px;
+}
+.body3{
+    margin-top: 16px;
+    margin-left: 900px;
+}
